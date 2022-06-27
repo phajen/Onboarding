@@ -33,5 +33,3 @@ Our intent is to provide general guidelines to use for data visualization - plea
 
 - General guidelines
   - Rename labels/field for visuals only, where applicable - nobody wants to see *FIN_YEAR* all over a report, use *Year* instead
-
-  -

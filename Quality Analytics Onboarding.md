@@ -67,13 +67,11 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 
 ## Important Links
 
-Jira Fundamentals Training: this will set the foundation for interacting with our Kanban board and backlog, as well as individual work issues <https://university.atlassian.com/student/path/815443-jira-fundamentals>
-
-Our Jira Kanban board: <https://team-1636998908371.atlassian.net/jira/software/projects/QA/boards/1>
-
-Quality Analytics Power BI Workspace: <https://app.powerbi.com/groups/4728dcea-3ecd-4fda-bdd7-9008d5daafa8/list>
-
-BISQL Data Dictionary: <http://txvwebdata001/WebData/Document.aspx>
+- Jira Fundamentals Training: this will set the foundation for interacting with our Kanban board and backlog, as well as individual work issues <https://university.atlassian.com/student/path/815443-jira-fundamentals>
+- Our Jira Kanban board: <https://team-1636998908371.atlassian.net/jira/software/projects/QA/boards/1>
+- Quality Analytics Power BI Workspace: <https://app.powerbi.com/groups/4728dcea-3ecd-4fda-bdd7-9008d5daafa8/list>
+- BISQL Data Dictionary: <http://txvwebdata001/WebData/Document.aspx>
+- TXTAV Intranet - important apps, etc. <https://home.txtav.web/>
 
 ## Wanna Learn More?
 
@@ -83,6 +81,7 @@ BISQL Data Dictionary: <http://txvwebdata001/WebData/Document.aspx>
 - GitHub Skills. From pull requests to communicating via Markdown. <https://skills.github.com/>
 - Microsoft Cert: Azure Data Fundamentals. We are a MS shop, after all. <https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/>
 - Markdown Guide: write better documentation <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
+- Snowflake Learning Guide (soon to replace BISQL, probably) <https://quickstarts.snowflake.com/>
 
 ### Innovation Communities
 

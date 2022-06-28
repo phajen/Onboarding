@@ -73,7 +73,7 @@ Our Jira Kanban board: <https://team-1636998908371.atlassian.net/jira/software/p
 
 Quality Analytics Power BI Workspace: <https://app.powerbi.com/groups/4728dcea-3ecd-4fda-bdd7-9008d5daafa8/list>
 
-BISQL DataDictionary: <http://txvwebdata001/WebData/Document.aspx>
+BISQL Data Dictionary: <http://txvwebdata001/WebData/Document.aspx>
 
 ## Wanna Learn More?
 
@@ -90,11 +90,17 @@ We encourage you to join communities which exist to create chance meetings and f
 
 - [dbt Slack](getdbt.slack.com)
 - [Data Book Club Slack](data-book-club.slack.com)
-- 
 
 # Organizational onboarding
 
 - Org Structure
+  - Have a look for yourself 🤓
+
+                SELECT * 
+                FROM [BISQL].[dbo].[V_D_EMPLOYEE_HEIRARCHY]
+                WHERE USER_STATUS = 'A'
+                AND DEPT = '967'
+
 - People Profiles
 - Team Profiles
 

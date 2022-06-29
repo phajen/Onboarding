@@ -2,7 +2,7 @@
 
 ## **Job Summary**
 
-The Analytics Associate will work as part of the skilled and passionate Textron Aviation Advanced Analytics Team delivering business solutions that enable the global sales and marketing teams. The position’s primary role will be to leverage internal and external data using data science techniques to solve business problems.  
+The Quality Data Analyst is responsible for collecting and storing data on quality metrics, defects, customer issues, or other data related to quality and/or reliability of our aircraft. The analyst will bring technical expertise to ensure the quality and accuracy of that data, then process, design and present it in ways to help people, the business, and support organizations make better decisions.
 
 ## **Job Responsibilities**
 
@@ -36,17 +36,28 @@ XII. Facilitate cross-functional projects in support of Quality initiatives.
 
 XIII. Provide recommendations to the business for new initiatives to support business objectives
 
+XIV. Utilize SQL + Git to build new analyses and support existing ones
+
+XV. Communicate findings to a wide range of stakeholders
+
+XVI. Help drive a change in usage of data through active surfacing of insights to stakeholders
+
 ## **Education/Experience:**
 
 Bachelors Degree Required in:
 
-- Analytics
+- Data Analytics
 - Data Science
 - Mathematics
 - Statistics
+- Management Information Systems
+- Engineering
+- Computer Science
 - Other related technical field
 
 Experience in data analytics, information technology, or another relative field is preferred.
+
+Aircraft Product knowledge preferred
 
 ## **Qualifications**
 

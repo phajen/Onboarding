@@ -13,7 +13,7 @@ We want to encourage non-linear workdays where team members gain more control of
 ## Purpose
 
 Get Quality passionate about data
-<!--I also like using "Teams" here. I don't know that our sole purpose is just to get Quality passionate about data--!>
+<!--I also like using "Teams" here. I don't know that our sole purpose is just to get Quality passionate about data-->
 
 ## Mission
 

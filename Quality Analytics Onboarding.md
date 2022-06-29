@@ -87,8 +87,8 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 
 We encourage you to join communities which exist to create chance meetings and foster innovation. Several of these are listed below that allow us to engage with new people, find commond ground, and share insights - all of which feed back into the culture and energy of our workplace.
 
-- [dbt Slack](getdbt.slack.com)
-- [Data Book Club Slack](data-book-club.slack.com)
+- [dbt Slack](https://getdbt.slack.com)
+- [Data Book Club Slack](https://data-book-club.slack.com)
 
 # Organizational onboarding
 

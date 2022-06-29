@@ -1,6 +1,7 @@
 # Quality Analytics Talent Deck Feedback
 
 ## **Clinton Feedback**
+
 - Anything.
 - x
 - x

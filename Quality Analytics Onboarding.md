@@ -10,6 +10,11 @@ Apply the spirit of iteration to documentation.
 
 We want to encourage non-linear workdays where team members gain more control of their time and have more time for things like deep work.
 
+## Purpose
+
+Get Quality passionate about data
+<!--I also like using "Teams" here. I don't know that our sole purpose is just to get Quality passionate about data-->
+
 ## Mission
 
 ## Vision
@@ -27,6 +32,8 @@ We want to encourage non-linear workdays where team members gain more control of
 ## Why we are different (unique differentiators)
 
 ## How we hire
+
+
 
 # The Day-to-Day
 

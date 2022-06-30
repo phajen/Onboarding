@@ -70,6 +70,11 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 
 ## Standard Operating Procedures (?)
 
+- Capture VPN and SmartCard instructions
+  - SmartCard - <https://eric.textron.com/files/TextronSystems/aai_nws_inf/ericdocuments/creating_smart_card.pdf#search=smart%20card>
+- Capture email signatures, qualityanalytics@txtav.com group inbox
+  - Group inbox - iRequest <http://txvireq001.txt.textron.com/sc/home.aspx> for Email Access / Removal
+
 ## Monthly or quarterly goals
 
 ## Important Links

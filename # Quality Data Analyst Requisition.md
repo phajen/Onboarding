@@ -4,6 +4,8 @@
 
 The Quality Data Analyst is responsible for collecting and storing data on quality metrics, defects, customer issues, or other data related to quality and/or reliability of our aircraft. The analyst will bring technical expertise to ensure the quality and accuracy of that data, then process, design and present it in ways to help people, the business, and support organizations make better decisions.
 
+<!--David Swanson description: The Data Analyst will work as part of the skilled and passionate Textron Aviation Advanced Analytics Team delivering business solutions that enable the global sales and marketing teams. The position’s primary role will be to leverage internal and external data using data science techniques to solve business problems.  The analyst will also be responsible for building predictive models, coding and tool development.-->
+
 ## **Job Responsibilities**
 
 I. Responsible for gathering, analyzing, and validation of documents regarding quality data requirements.

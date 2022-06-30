@@ -12,10 +12,19 @@ We want to encourage non-linear workdays where team members gain more control of
 
 ## Purpose
 
-Get Quality passionate about data
-<!--I also like using "Teams" here. I don't know that our sole purpose is just to get Quality passionate about data-->
+❤️‍🔥 Get teams passionate about data!
+
+When teams are passionate about data, they engage with it more and **take action**. They read reports and analyses. They ask **better questions**. They involve you when making **data-driven decisions**.
+
+This simple but clear purpose leads to the question — “how do we get people passionate about our work?”. This is a fundamental question that can be asked with every piece of work we do. How do we create that feeling which piques someone’s curiosity and interest? This simple question allows us to think about the output of our work and how we deliver it and maximise our opportunity to make an impact.
 
 ## Mission
+
+**Provide** in-depth analysis that puts data and insights at the heart of decision making
+
+**Enable** self-serve analytics capabilities that empower teams to gain insights faster
+
+**Support** in developing and tracking relevant measures/metrics
 
 ## Vision
 
@@ -26,6 +35,7 @@ Get Quality passionate about data
 - ⏱️ Efficiency
 - 👣 Iteration
 - 👁️ Transparency
+- 🔰 Simple
 
 ## Who we serve
 

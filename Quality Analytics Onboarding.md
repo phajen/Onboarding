@@ -82,6 +82,7 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 
 - Capture VPN and SmartCard instructions
   - SmartCard - <https://eric.textron.com/files/TextronSystems/aai_nws_inf/ericdocuments/creating_smart_card.pdf#search=smart%20card>
+  - VPN - iRequest for Remote Access <http://txvireq001.txt.textron.com/sc/catalog.product.aspx?product_id=access.remoteaccess>
 - Capture email signatures, qualityanalytics@txtav.com group inbox
   - Group inbox - iRequest <http://txvireq001.txt.textron.com/sc/home.aspx> for Email Access / Removal
 
@@ -89,6 +90,7 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 
 ## Important Links
 
+- Remote Work best practices from our friends at GitLab <https://learn.gitlab.com/allremote/remote-playbook>
 - Jira Fundamentals Training: this will set the foundation for interacting with our Kanban board and backlog, as well as individual work issues <https://university.atlassian.com/student/path/815443-jira-fundamentals>
 - Our Jira Kanban board: <https://team-1636998908371.atlassian.net/jira/software/projects/QA/boards/1>
 - Quality Analytics Power BI Workspace: <https://app.powerbi.com/groups/4728dcea-3ecd-4fda-bdd7-9008d5daafa8/list>

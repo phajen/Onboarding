@@ -7,7 +7,7 @@ The intent of the Analytics Book Club is to provide a collaborative space to lea
   - Being Asychronous means that we will communicate concepts in a variety of ways whenever convenient. This means when you have an idea in your head, you can post it right away! Or have some food for thought for the team on a topic you read today? add it to the chat for poeple to think about.
 
 - General Rules
-  -Being a book club, there has to be some ground rules so expectations are set and everyone understands the principles of fostering a growing, inclusive environemnt
+  - Being a book club, there has to be some ground rules so expectations are set and everyone understands the principles of fostering a growing, inclusive environemnt
     - The aim is to have productive conversations about topics that can increase our productivety, ease some common blockers, or even just make our day easier. With this said, the goal is not to win arguments. The goal is to gain perspective and grasp what is the best for the team.
     - As awesome as it is to particpiate and voice your opinion and persepctive, please remeber to value other people's voices and take the time to read and consider their thoughts.
     - Be respectful and approach converstions with humulity

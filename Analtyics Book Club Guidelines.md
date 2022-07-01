@@ -1,4 +1,4 @@
-#Analytics Book Club Guidelines
+# Analytics Book Club Guidelines
 
 The intent of the Analytics Book Club is to provide a collaborative space to learn new analytic, modeling, theory, buisness principles, and best practices to aid in employee's growth and training.
 
@@ -12,20 +12,20 @@ The intent of the Analytics Book Club is to provide a collaborative space to lea
     - As awesome as it is to particpiate and voice your opinion and persepctive, please remeber to value other people's voices and take the time to read and consider their thoughts.
     - Be respectful and approach converstions with humulity
     
--Flow
+- Flow
   - Cycles for chapters/sections will happen in a span of two weeks. In that two weeks analysts are expected to read the next section of the book and participate in discussion throughout the weeks
   
- -Participation
+ - Participation
   - Participation can come in a variety of forms. These forms can include
     - Adding reflection and thoughts to the discussion thread. 
       - What are your thoughts? 
       - Are we already doing this? 
-       - Will this actually benefit us?
-       - Where do you see this concept applied to the group's or indivudla's day to day?
-       - Where could we do better with this?
+      - Will this actually benefit us?
+      - Where do you see this concept applied to the group's or indivudla's day to day?
+      - Where could we do better with this?
     - Providing resources that compliment the topics we are reading
     - Particpating in polls or assessments that may e found related to the readins topics
     - Asking questions to the group to provide some food for thought
   
-  -Book Suggestions
-    -We will get a list flowing for future books that everyone in the group can contribute suggestions
+  - Book Suggestions
+    - We will get a list flowing for future books that everyone in the group can contribute suggestions

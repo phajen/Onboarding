@@ -10,6 +10,8 @@ If you click on the arrow pointing downward, you have other options for Linux an
 
 Install the program like you would any other, accepting the defaults.
 
+Install Git on your computer if you haven't already <https://git-scm.com/download/win>
+
 ## Installing and Integrating Python
 
 For those of you who are familiar with using IDE environments (e.g. Visual Studio, Eclipse, NetBeans) you can use Visual Studio Code to program Python natively. This allows you to code and run Python from directly within Visual Studio Code. Note, you must have an interpreter in order to run the code.

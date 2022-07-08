@@ -10,6 +10,8 @@ If you click on the arrow pointing downward, you have other options for Linux an
 
 Install the program like you would any other, accepting the defaults.
 
+## Installing Git
+
 Install Git on your computer if you haven't already <https://git-scm.com/download/win>
 
 ## Installing and Integrating Python
@@ -29,6 +31,16 @@ Now that Python is on your system, you need to integrate a Python interpreter in
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+* GitLens - Git supercharged
+  * Allows us to see more details on Git authoring, etc.
+* Auto-Open Markdown Preview
+  * Automatically opens a preview window beside the Markdown file when opened. Super useful so you don't have to stare at raw Markdown formatting.
+* markdownlint
+  * Provides best practices for Markdown formatting as you go - think of it as the Spelling Editor for Git
+* Markdown All in One
+* GitHub Pull Requests and Issues
+
+Got Any more VS Code extensions we missed? Please add them!
 
 To install an extension, click on the icon on the left-hand side that looks like four boxes. This will open the extensions window pane. You can use the search box to search for the extensions. When it appears, click on the extension; this will bring up a more focused window on the right-hand side displaying details about the extension. Simply click the button to install it.
 

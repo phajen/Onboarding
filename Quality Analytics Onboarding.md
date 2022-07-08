@@ -1,6 +1,6 @@
 # Quality Analytics Onboarding
 
-### 🧐 What is this document?
+## 🧐 What is this document?
 
 Documenting organization process, culture, and solutions for all functions/departments in one company-wide handbook creates a Single Source of Truth (SSOT). Everyone should be empowered to contribute proposals to the handbook.
 
@@ -41,11 +41,14 @@ This simple but clear purpose leads to the question — “how do we get people 
 
 ## Why we are different (unique differentiators)
 
+**Flexible work** means that we aren’t all in the office at the same time anymore, so it’s more important than ever that we be explicit about HOW we work together.
+
+- What do we currently do here that we like?
+- What do we want to be doing that could help us work more effectively together?
+
+When something isn’t working for you, please escalate that to the broader team so we can revisit the norms to update or adjust them. We want to reconsider this document and our processes regularly to ensure that it actually supports our work, instead of getting in the way of it.
+
 ## How we hire
-
-
-
-# The Day-to-Day
 
 ## Policies
 
@@ -114,7 +117,7 @@ We encourage you to join communities which exist to create chance meetings and f
 - [dbt Slack](https://getdbt.slack.com)
 - [Data Book Club Slack](https://data-book-club.slack.com)
 
-# Organizational onboarding
+## Organizational onboarding
 
 - Org Structure
   - Have a look for yourself 🤓
@@ -127,7 +130,7 @@ We encourage you to join communities which exist to create chance meetings and f
 - People Profiles
 - Team Profiles
 
-# Stand-ups for Distributed Teams
+## Stand-ups for Distributed Teams
 
 Our **daily stand-up** meeting is for bonding, blockers, and the future. Don't talk about what you did yesterday - this is not a report out where everyone tries to look busy. Instead, kickstart the day with some bonding, solve anything blocking us, and share future plans so people can plan, act, and ultimately save time.
 
@@ -137,13 +140,13 @@ Our tip for distributed teams is to have every team member join a video stand-up
 
 Imagine a team of eight people, with five co-located team members in a conference room and and three remote team members on a video call. This presents a challenge for remote team members wanting to pick up on the side conversations, body language, and gestures that don’t always translate through video. Not to mention the challenge of interjecting in a big group. With all eight team members on their own machines, no one will be missing out on important team dynamics.
 
-# Agile
+## Agile
 
 We lean towards [agile](https://www.atlassian.com/agile) without going full kool aid. Agile is an iterative approach to project management that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
 
 Agile is also called "iterative" project management. Instead of breaking your project down into phases that have to happen sequentially, you split your project up into smaller projects and ship each one as a step toward reaching the full goal. You'll plan the broad ideas of the project and divide it up, then plan, design, build, and test each part of the project individually. That lets you ship faster, and makes it easier to adapt the project along the way.
 
-# Kanban
+## Kanban
 
 Kanban is a popular agile framework that requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.
 
@@ -161,7 +164,7 @@ Your Kanban system can be as flexible as you want—it's really just a way to vi
 
 - **Constant improvement (otherwise known as "kaizen"):** Analyze the flow to determine how efficiently you're working, and always strive to improve it.
 
-# Technical onboarding
+## Technical onboarding
 
 Give new hires access to the tools they'll be using in their role and encourage them to use the tools as early as possible. Using tools, even for small tasks, build confidence and helps new employees to feel productive and empowered.
 

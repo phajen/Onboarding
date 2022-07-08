@@ -33,3 +33,11 @@ Our intent is to provide general guidelines to use for data visualization - plea
 
 - General guidelines
   - Rename labels/field for visuals only, where applicable - nobody wants to see *FIN_YEAR* all over a report, use *Year* instead
+
+- How to make dashboards that actually get used
+  - Start with users, not with the data.
+    - Don't just listen to users' requests, but instead engage in a conversatoin with them to get at the heart of their business needs.
+    - Get curious and ask questions to explore the context around the users' requests. By exploring the deeper layers of a request, we can better undersatnd our users ann put together a more robust and targeted solution than what was originally requested.
+  - Not just users first, but users throughout.
+    - Instead of taking your first idea and building it out fully in Power BI, share your works in progress with the users (re-engaging)
+  - Don’t build it and forget it. Build it and nurture it.

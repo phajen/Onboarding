@@ -95,6 +95,7 @@ OBS Studio: recording documentation and tutorials <https://obsproject.com/>
 
 - Remote Work best practices from our friends at GitLab <https://learn.gitlab.com/allremote/remote-playbook>
 - Jira Fundamentals Training: this will set the foundation for interacting with our Kanban board and backlog, as well as individual work issues <https://university.atlassian.com/student/path/815443-jira-fundamentals>
+- The Beginner's Guide to Agile <https://university.atlassian.com/student/path/1113130-the-beginner-s-guide-to-agile-in-jira>
 - Our Jira Kanban board: <https://team-1636998908371.atlassian.net/jira/software/projects/QA/boards/1>
 - Quality Analytics Power BI Workspace: <https://app.powerbi.com/groups/4728dcea-3ecd-4fda-bdd7-9008d5daafa8/list>
 - BISQL Data Dictionary: <http://txvwebdata001/WebData/Document.aspx>

@@ -51,5 +51,3 @@ Once all the extensions are installed, you need to configure a few options. From
 More than likely you will only have a single interpreter available. If you have more than one, select the version of Python you just installed. Additionally, as you hover over each one, the directory location will be shown at the top. This can be useful if you need to ever find the location on your computer.
 
 The last adjustment we need to do is ensure `Pylance` is the `Python Language Server` of choice. You can find this setting by navigating to `File`, `Preferences`, `Settings`, `Extensions`, `Python`, then `Language Server` (just keep scrolling down, you’ll find it listed alphabetically). In the drop-down list, select Pylance (you may see other options such as Jedi, JediLSP, None, etc.).
-
-That's it! You are ready to use Visual Studio Code for Python programming.

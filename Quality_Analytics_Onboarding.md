@@ -133,6 +133,7 @@ We encourage you to join communities which exist to create chance meetings and f
     - Clinton Lee is an [INFJ](https://www.16personalities.com/infj-personality)
     - Kyle Noulis is an [ISTJ](https://www.16personalities.com/istj-personality)
     - Ty Ketchum is an [ESTJ](https://www.16personalities.com/estj-personality)
+    - Bretly Marzen is an [INFJ](https://www.16personalities.com/infj-personality)
   
 - Team Profiles
 

@@ -135,6 +135,7 @@ We encourage you to join communities which exist to create chance meetings and f
     - Ty Ketchum is an [ESTJ](https://www.16personalities.com/estj-personality)
     - Bretly Marzen is an [INFJ](https://www.16personalities.com/infj-personality)
     - Lance Fielder is an [INFJ](https://www.16personalities.com/infj-personality)
+    - Jack Regehr is an [INFJ](https://www.16personalities.com/infj-personality)
   
 - Team Profiles
 

@@ -136,6 +136,7 @@ We encourage you to join communities which exist to create chance meetings and f
     - Bretly Marzen is an [INFJ](https://www.16personalities.com/infj-personality)
     - Lance Fielder is an [INTJ](https://www.16personalities.com/intj-personality)
     - Jack Regehr is an [INFJ](https://www.16personalities.com/infj-personality)
+    - Jordan Ashworth is an [ISFJ](https://www.16personalities.com/infj-personality)
   
 - Team Profiles
 
